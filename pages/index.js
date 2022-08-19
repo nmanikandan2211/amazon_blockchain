@@ -5,7 +5,7 @@ const styles = {
 export default function Home() {
   return (
     <div className={styles.container}>
-
+mani
     </div>
   )
 }
